@@ -237,11 +237,11 @@ Neste exemplo, o cabeçalho da tabela é definido dentro do elemento `<thead>` e
 
 → Utilize `colspan` e `rowspan` para criar uma tabela parecida com a seguir:
 
-![Captura de Tela 2023-10-08 às 23.21.54.png](Aula%202%20b1c934ffb0264b0f87c9de371d2fe2e9/Captura_de_Tela_2023-10-08_as_23.21.54.png)
+![Captura_de_Tela_2023-10-08_as_23 21 54](https://github.com/Luquina/ADA_VemSerTech/assets/140974399/e2726327-ee96-4e8b-ac52-ba45cf4da0db)
 
 → Utilize CSS para criar uma tabela parecida com a seguir:
 
-![Captura de Tela 2023-10-08 às 23.25.31.png](Aula%202%20b1c934ffb0264b0f87c9de371d2fe2e9/Captura_de_Tela_2023-10-08_as_23.25.31.png)
+![Captura_de_Tela_2023-10-08_as_23 25 31](https://github.com/Luquina/ADA_VemSerTech/assets/140974399/22945c0d-1b8b-499b-85f0-76818be4c02f)
 
 ## Conceito de classes em CSS
 
